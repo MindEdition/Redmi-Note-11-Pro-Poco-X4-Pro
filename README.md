@@ -37,3 +37,4 @@
 - Wait for few hours to fet rom stable before complaining.
 
 #### Download:
+- [SourceForge](https://sourceforge.net/projects/miui-mind/files/stable-releases/Mind-Edition_VeuxG_Paradox_Official.zip/download)
